@@ -1,0 +1,14 @@
+.step-progress--circle {
+	border-radius: 100%;
+	border: 8px solid #bbb;
+	display: inline-block;
+	position: relative;
+	height: 18px;
+	width: 18px;
+	vertical-align: middle;
+	z-index: 10;
+}
+
+.step-progress--circle.active {
+	border-color: #2980b9;
+}

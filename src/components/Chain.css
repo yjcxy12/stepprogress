@@ -1,0 +1,13 @@
+.step-progress--chain {
+	background-color: #bbb;
+	display: inline-block;
+	position: relative;
+	vertical-align: middle;
+	margin-left: -1px;
+	margin-right: -1px;
+	z-index: 0;
+}
+
+.step-progress--chain.active {
+	background-color: #2980b9;
+}

@@ -1,0 +1,8 @@
+.step-progress--title {
+	color: #bbb;
+	position: relative;
+}
+
+.step-progress--title.active {
+	color: #2980b9;
+}
